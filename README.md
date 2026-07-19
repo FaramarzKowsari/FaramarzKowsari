@@ -9,6 +9,9 @@ His areas of expertise span Artificial Intelligence, prompt engineering, modern 
 
 In addition to writing, he develops web-based educational tools and creates specialized instructional video content.
 
+## Official Website
+
+🌐 [faramarzkowsari.github.io](https://faramarzkowsari.github.io/)
 
 
 ## Published Works
